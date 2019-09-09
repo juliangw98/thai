@@ -1,0 +1,40 @@
+#menu{
+padding-top: 10vh;
+padding-bottom: 10vh;
+  ul{
+    list-style-type: none;
+    padding-left: 0px;
+
+    li{
+      font-size:1.5em;
+    }
+  }
+  .noodles{
+    background-image: url(../images/padthai.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+    height: 40vh;
+    width: 100%;
+  }
+  .curry{
+    background-image: url(../images/thai.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+    height: 40vh;
+    width: 100%;
+  }
+  .rice{
+    background-image: url(../images/rice.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+    height: 40vh;
+    width: 100%;
+  }
+  .wok{
+    background-image: url(../images/wok.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+    height: 40vh;
+    width: 100%;
+  }
+}
